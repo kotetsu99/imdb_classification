@@ -9,7 +9,9 @@ TransformerによるIMDBレビューの分類(高評価/低評価)を行うプ�
 こちらのブログ記事をご確認ください。
 
 https://nine-num-98.blogspot.com/2023/04/imdb-classification-01.html
+
 https://nine-num-98.blogspot.com/2023/04/imdb-classification-02.html
+
 https://nine-num-98.blogspot.com/2023/04/imdb-classification-03.html
 
 # 参考サイト
